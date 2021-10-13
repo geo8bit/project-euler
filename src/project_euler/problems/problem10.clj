@@ -12,7 +12,7 @@
 (defn prime-numbers-below
   "Implements Sieve of Eratosthenes to find all prime numbers below n."
   [n]
-  (loop [candidates (rest (range 1 n 2))
+  (loop [candidates (range 3 n 2)
          tested [2]]
     (if (> (first candidates) (Math/floor (Math/sqrt n)))
         (concat tested candidates)
