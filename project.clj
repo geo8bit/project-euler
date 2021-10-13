@@ -2,5 +2,4 @@
   :description "My solutions to Project Euler problems"
   :url "https://projecteuler.net/"
   :dependencies [[org.clojure/clojure "1.9.0"]]
-  :main project-euler.core
-  :resource-paths ["src/project_euler/problems"])
+  :main project-euler.core)
