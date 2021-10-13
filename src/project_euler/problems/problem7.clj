@@ -1,5 +1,5 @@
-(ns project-euler.problem7
-  (:require [project-euler.problem3 :refer [prime-numbers]]))
+(ns project-euler.problems.problem7
+  (:require [project-euler.problems.problem3 :refer [prime-numbers]]))
 
 ;; What is the 10001st prime number?
 ;;

@@ -1,5 +1,5 @@
-(ns project-euler.problem5
-  (:require [project-euler.problem3 :as problem3 :refer [get-prime-factors]]))
+(ns project-euler.problems.problem5
+  (:require [project-euler.problems.problem3 :as problem3 :refer [get-prime-factors]]))
 
 ;; What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 ;;

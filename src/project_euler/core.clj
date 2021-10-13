@@ -1,14 +1,14 @@
 (ns project-euler.core
-  (:require [project-euler.problem1 :as problem1]
-            [project-euler.problem2 :as problem2]
-            [project-euler.problem3 :as problem3]
-            [project-euler.problem4 :as problem4]
-            [project-euler.problem5 :as problem5]
-            [project-euler.problem6 :as problem6]
-            [project-euler.problem7 :as problem7]
-            [project-euler.problem8 :as problem8]
-            [project-euler.problem9 :as problem9]
-            [project-euler.problem10 :as problem10]))
+  (:require [project-euler.problems.problem1 :as problem1]
+            [project-euler.problems.problem2 :as problem2]
+            [project-euler.problems.problem3 :as problem3]
+            [project-euler.problems.problem4 :as problem4]
+            [project-euler.problems.problem5 :as problem5]
+            [project-euler.problems.problem6 :as problem6]
+            [project-euler.problems.problem7 :as problem7]
+            [project-euler.problems.problem8 :as problem8]
+            [project-euler.problems.problem9 :as problem9]
+            [project-euler.problems.problem10 :as problem10]))
 
 (println "Problem 1 result:" problem1/result)
 ;; (println "Problem 2 result:" problem2/result)

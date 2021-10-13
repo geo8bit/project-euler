@@ -1,4 +1,4 @@
-(ns project-euler.problem10)
+(ns project-euler.problems.problem10)
 
 ;; Find the sum of all the primes below two million.
 ;;

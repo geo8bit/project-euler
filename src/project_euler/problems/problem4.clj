@@ -1,4 +1,4 @@
-(ns project-euler.problem4)
+(ns project-euler.problems.problem4)
 
 ;; Find the largest palindrome made from the product of two 3-digit numbers.
 ;;

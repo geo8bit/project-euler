@@ -1,4 +1,4 @@
-(ns project-euler.problem9)
+(ns project-euler.problems.problem9)
 
 ;; There exists exactly one Pythagorean triplet for which a + b + c = 1000.
 ;; Find the product abc.

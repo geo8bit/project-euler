@@ -1,4 +1,4 @@
-(ns project-euler.problem3)
+(ns project-euler.problems.problem3)
 
 ;; What is the largest prime factor of the number 600851475143 ?
 ;;
